@@ -1,9 +1,9 @@
-[![人际能量动力学宣言](./assets/images/manifesto-poster.png)](./manifesto-poster-display.md)
+[![人际能量动力学海报](./assets/images/manifesto-poster.png)](./manifesto-poster-display.md)
  E-Core OS: 人际能量动力学
 
 > 核心指令：节能，优化，连接强者。
 
-[![人际能量动力学宣言海报](./manifesto-poster.png)](./frameworks/interpersonal-energy-dynamics-manifesto.md)
+[![人际能量动力学宣言](./manifesto-poster.png)](./frameworks/interpersonal-energy-dynamics-manifesto.md)
 
 ---
 
