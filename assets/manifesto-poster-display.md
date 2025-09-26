@@ -1,6 +1,5 @@
  人际能量动力学宣言海报
 
-![人际能量动力学宣言海报](./assets/images/manifesto-poster.png)
 https://flowus.cn/share/ca048e98-1ee7-4dd3-96a1-f3b3da2bc252
 【系统宣言】
 
